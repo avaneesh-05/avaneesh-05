@@ -44,6 +44,9 @@ I'm a Computer Engineering student at Savitribai Phule Pune University (2022-202
 
 #### **Platforms:**
 <p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
@@ -71,31 +74,23 @@ I'm a Computer Engineering student at Savitribai Phule Pune University (2022-202
 
 ---
 
-## 📚 Research & Certifications
-
-- **Research Publications:**
-  - Optimizing Real-Time Person Detection on Edge Devices (YOLOv8 & TensorFlow Lite)
-  - Automatic Fire Detecting and Extinguishing Rescue Robot
-  - A Review of Digital Mental Health Interventions
-
-- **Certifications:**
-  - Machine Learning Specialization (Deep Learning & Stanford University)
-  - Generative AI with Large Language Models
-  - AWS Cloud Practitioner Essentials
+### 📬 Connect with Me
+<div align="center">
+<a href="https://www.linkedin.com/in/avaneesh-pharande-60229625a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:avaneeshpharande@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</div>
 
 ---
 
-## 🏆 Achievements
+### 📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=avaneesh-05&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avaneesh-05&layout=compact&theme=radical" width="48%" />
+</div>
 
-- **IoT Project Competition Runner-Up**  
-  Developed an Automatic Fire Extinguishing Robot.
 
-- **Research Excellence**  
-  Published three ISO-certified research papers on AI, IoT, and mental health.
 
----
-
-## 💌 Connect with Me
-
-- **Email:** [avaneeshpharande@gmail.com](mailto:avaneeshpharande@gmail.com)
-- **LinkedIn:** [avaneesh-pharande-60229625a](https://www.linkedin.com/in/avaneesh-pharande-60229625a)
