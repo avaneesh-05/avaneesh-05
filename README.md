@@ -54,23 +54,12 @@ I'm a Computer Engineering student at Savitribai Phule Pune University (2022-202
 
 ---
 
-## 🚀 Projects
+## 🔥 About Me
 
-- **Automatic Fire Extinguisher Robot**  
-  Real-time safety automation using TensorFlow Lite, Raspberry Pi, and OpenCV for person and flame detection.
-
-- **Transportio**  
-  A freight booking website with Flask backend, SQL database, and a responsive frontend.
-
-- **Brain Tumor Detection (Deep Learning)**  
-  CNN-based model with Flask interface for classifying MRI images.
-
----
-
-## 🎓 Experience
-
-- **GDG Cloud Lead** (Sep 2024 – Present)  
-  Leading a Tier 2 Generative AI campaign with 60+ participants and 50+ Google Cloud labs.
+- 💡 Passionate about AI, IoT, and Machine Learning.
+- 🛠️ Developed an Automatic Fire Extinguisher Robot using TensorFlow Lite & Raspberry Pi.
+- 🧠 Built a Brain Tumor Detection system using Deep Learning (CNN) for medical imaging.
+- 🎤 GDG Cloud Lead, organizing AI and cloud workshops to build a strong tech community.
 
 ---
 
