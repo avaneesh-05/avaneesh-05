@@ -91,4 +91,3 @@ I'm a Computer Engineering student at Savitribai Phule Pune University (2022-202
 
 - **Email:** [avaneeshpharande@gmail.com](mailto:avaneeshpharande@gmail.com)
 - **LinkedIn:** [avaneesh-pharande-60229625a](https://www.linkedin.com/in/avaneesh-pharande-60229625a)
-- **GitHub:** [avaneesh-05](https://github.com/avaneesh-05)
