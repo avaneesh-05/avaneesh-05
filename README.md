@@ -53,10 +53,11 @@ I'm a Computer Engineering student at Savitribai Phule Pune University (2022-202
 
 ## 🔥 About Me
 
-- 💡 Passionate about AI, IoT, and Machine Learning.
-- 🛠️ Developed an Automatic Fire Extinguisher Robot using TensorFlow Lite & Raspberry Pi.
-- 🧠 Built a Brain Tumor Detection system using Deep Learning (CNN) for medical imaging.
-- 🎤 GDG Cloud Lead, organizing AI and cloud workshops to build a strong tech community.
+- 🔭 I'm a Machine Learning enthusiast focused on building scalable and real-world AI solutions.  
+- 🧠 Currently working on an AI Proctoring System with real-time face and behavior tracking capabilities.  
+- ⚙️ Skilled in computer vision, deep learning, and edge AI using frameworks like TensorFlow, OpenCV, and PyTorch.  
+- ☁️ Experienced with deploying ML workflows on Google Cloud and AWS with CI/CD best practices.  
+- ♟️ I enjoy solving algorithmic problems and exploring how AI and LLMs are shaping the future of tech.
 
 ---
 
